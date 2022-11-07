@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://github.com/v-str">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=v-str&theme=radical&show_icons=true&include_all_commits=true&line_height=27&count_private=true&title_color=FF7D7D&text_color=c9cacc&icon_color=3498DB&bg_color=2c3e50" alt="v-str GitHub Stats" />
+</a>
+
 <!--
 **v-str/v-str** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
