@@ -1,9 +1,9 @@
 ### 🤝 to everybody from :ru:
 
-<div>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=v-str&theme=dark&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&line_height=21">
-  <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v-str&theme=dark&&hide_title=true&hide_border=true&layout=compact&langs_count=8">
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=v-str&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=v-str&layout=compact&theme=dark"/>
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=v-str.v-str)
 
